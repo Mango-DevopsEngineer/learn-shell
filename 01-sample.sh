@@ -1,3 +1,6 @@
 ls -l
 pwd
-echo -e "/e[33mHellow World \e[0m"
+
+yum list installed | grep vim
+
+#echo -e "\e[33mHellow World\e[0m"
