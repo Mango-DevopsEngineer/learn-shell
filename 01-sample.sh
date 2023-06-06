@@ -3,4 +3,4 @@ pwd
 
 yum list installed | grep vim
 
-#echo -e "\e[33mHellow World\e[0m"
+echo -e "\e[31mHello World shold print in RED color\e[0m"
